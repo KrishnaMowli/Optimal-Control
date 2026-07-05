@@ -86,6 +86,67 @@ Additional performance plots will be added in future updates.
 
 ---
 
+## Simulation Results
+
+### State Trajectories
+
+![State Comparison](images/02_StateComparison.png)
+
+---
+
+### Control Inputs
+
+![Input Comparison](images/03_InputComparison.png)
+
+---
+
+### Costate Trajectories
+
+![Costate Comparison](images/04_CostateComparison.png)
+
+---
+
+### State Norm Comparison
+
+![State Norm](images/05_StateNorm.png)
+
+---
+
+### Control Energy
+
+![Control Energy](images/06_ControlEnergy.png)
+
+---
+
+### Running Cost
+
+![Running Cost](images/07_RunningCost.png)
+
+---
+
+### Accumulated Cost
+
+![Accumulated Cost](images/08_AccumulatedCost.png)
+
+---
+
+### Closed-Loop Eigenvalues
+
+![Eigenvalues](images/09_Eigenvalues.png)
+
+---
+
+### Riccati Matrix Evolution
+
+![Riccati Evolution](images/10_RiccatiEvolution.png)
+
+## References
+
+1. D. E. Kirk, *Optimal Control Theory: An Introduction*
+2. Kwakernaak and Sivan, *Linear Optimal Control Systems*
+3. Frank L. Lewis, *Optimal Control*
+
+
 ## Key Learning Outcomes
 
 - Finite vs. Infinite Horizon Optimal Control
