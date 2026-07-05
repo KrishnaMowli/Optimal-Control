@@ -77,14 +77,22 @@ Additional performance plots will be added in future updates.
 ## Folder Structure
 
 ```text
-01_LQR_Finite_vs_Infinite_Horizon/
+Optimal-Control/
 │
-├── LQR_Finite_vs_Infinite_Horizon.m
-├── images/
+├── 01_LQR_Finite_vs_Infinite_Horizon/
+│   ├── main.m
+│   ├── solveLQR_Finite_Euler.m
+│   ├── solveLQR_Infinite_Euler.m
+│   ├── computePerformanceMetrics.m
+│   ├── plotResults.m
+│   ├── README.md
+│   └── images/
+│
+├── 02_Dynamic_Programming/
+│
+├── LICENSE
 └── README.md
 ```
-
----
 
 ## Simulation Results
 
